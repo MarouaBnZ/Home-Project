@@ -1,0 +1,101 @@
+
+header {
+ display:flex;
+ flex-flow:row nowrap;
+  line-height:0.8rem; 
+  height:100px;
+}
+
+.Home-Logo{
+ margin-right:0.3rem;
+}
+.Home-Logo p {
+  padding-bottom:1rem;
+  padding-top:0.4rem;
+}
+ul{
+
+  font-size:0.6rem;
+  font-weight:700;
+  margin-right:0.2rem;
+}
+ul li {
+  margin:0.1rem;
+  padding:0.2rem;
+}
+
+.home1{
+  width:400px;
+
+}
+.title1{
+  margin-left:1rem;
+}
+
+.title1 p{
+  margin-left:1rem;
+  font-size:2.2rem;
+}
+
+.vp-p1 p {
+  margin-right:1.5rem;
+  margin-left:1.8rem;
+
+}
+.vp-p2 {
+font-size:0.75rem;
+text-align:center;
+}
+   .design-total{
+    display:flex;
+    flex-direction:column;
+  
+   }
+ 
+
+   .design-home{
+    display:flex;
+    flex-direction:column;
+  
+   }
+   .design-content{
+    display:flex;
+    flex-flow:column nowrap;
+    align-items:center;
+    justify-content: center;
+  }
+   .design-home img {
+  max-width:320px;
+  height:300px;
+   }
+
+   .living-room{
+    display:flex;
+    flex-direction:column;
+   }
+
+   .living-content{
+    display:flex;
+    flex-flow:column nowrap;
+    align-items:center;
+    justify-content: center;
+  }
+
+   .living-room img {
+    max-width:320px;
+    height:300px;
+   }
+
+ .icon{
+    display:flex;
+    flex-direction:row;
+   }
+
+   #social-media {
+     width:92%;
+   }
+   .icon i {
+    margin-left:1rem;
+
+}
+ 
